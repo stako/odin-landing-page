@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
 
 body {
     font-family: Roboto, sans-serif;
@@ -66,7 +66,7 @@ body {
     border-radius: 10px;
     padding: 8px 32px;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: 900;
     color: #f9faf8;
     font-family: Roboto, sans-serif;
 }
@@ -85,6 +85,10 @@ body {
     padding: 20px 200px;
     text-align: center;
     color: #1f2937;
+}
+
+.information h1 {
+    font-weight: 900;
 }
 
 .card-container {
@@ -119,7 +123,7 @@ body {
 
 .quote-text {
     font-style: italic;
-    font-weight: 200;
+    font-weight: 100;
     font-size: 36px;
 }
 
