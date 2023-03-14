@@ -142,3 +142,41 @@ body {
     color: #e5e7eb;
     font-weight: 100;
 }
+
+.signup-container {
+    padding: 32px 200px;
+}
+
+.signup-modal {
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 40px 128px;
+    display: flex;
+    gap: 32px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup-modal h1 {
+    color: #f9faf8;
+    margin: 0;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+.signup-modal p {
+    color: #e5e7eb;
+    margin: 0;
+}
+
+.signup-modal button {
+    background-color: #3882f6;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 6px 40px;
+    font-size: 18px;
+    font-weight: 900;
+    color: #f9faf8;
+    font-family: Roboto, sans-serif;
+    flex: 0 0 auto;
+}
