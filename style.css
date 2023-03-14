@@ -109,3 +109,22 @@ body {
     border-color: #3882f6;
     border-radius: 10px;
 }
+
+.quote {
+    padding: 20px 400px;
+    text-align: center;
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quote-text {
+    font-style: italic;
+    font-weight: 200;
+    font-size: 36px;
+}
+
+.quote-author {
+    font-weight: 700;
+    font-size: 28px;
+    text-align: right;
+}
