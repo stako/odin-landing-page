@@ -132,3 +132,13 @@ body {
     font-size: 28px;
     text-align: right;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 200px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-weight: 100;
+}
