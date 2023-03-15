@@ -3,6 +3,10 @@
 body {
     font-family: Roboto, sans-serif;
     margin: 0;
+    background-image: url(./bg.jpg);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
 }
 
 .header {
