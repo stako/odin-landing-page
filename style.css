@@ -83,6 +83,7 @@ body {
     flex: 1;
     color: #e5e7eb;
     background-color: lightslategray;
+    border-radius: 10px;
 }
 
 .information {
